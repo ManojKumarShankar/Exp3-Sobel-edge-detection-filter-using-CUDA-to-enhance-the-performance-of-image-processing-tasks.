@@ -2,7 +2,7 @@
 
 ### ENTER YOUR NAME: Manoj kumar S
 ### REGISTER NO: 212222040097
-### DATE: 20.04.2025
+### DATE: 22.04.2025
 
 ## Background: 
   - The Sobel operator is a popular edge detection method that computes the gradient of the image intensity at each pixel. It uses convolution with two kernels to determine the gradient in both the x and y directions. 
